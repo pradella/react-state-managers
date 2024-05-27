@@ -13,6 +13,10 @@ Here is the project running, highlighting the components that re-render:
 
 ![Animation](./images/rsm-low.gif)
 
+Render duration:
+
+![Render duration](./images/rsm-duration.png)
+
 ### Installation
 
 ```bash
